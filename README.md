@@ -7,7 +7,7 @@ The project currently registers for the Monday/Wednesday 8:30PM timeslot automat
 The registration script can also be run locally to register, provided you start the script at most 12 hours before registration opens. See the `Steps to run` section below for how to do this.
 
 # Requirements
-
+just gotta log in
 - npm
 - NodeJS: v18.18.2
 
