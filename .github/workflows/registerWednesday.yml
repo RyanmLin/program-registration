@@ -2,7 +2,7 @@ name: Program Registration (Wednesday)
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 4 * * 3"
+    - cron: "0 3 * * 3"
     # Tuesday 8:30PM PST Registration Time (we are 8 hours behind UTC)
     # Schedule workflow 30 minutes earlier to ensure we can register right on time
     # May need to adjust for Daylight Savings later
